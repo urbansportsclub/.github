@@ -74,12 +74,6 @@ If you find a bug or want to suggest a new feature, please create an issue in th
 
 ---
 
-## Community
-
-Join our [Slack Channel](#) or [Forum](#) to discuss ideas, ask questions, and connect with the community.
-
----
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out to us:
