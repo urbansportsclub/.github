@@ -99,7 +99,7 @@ Interested in diving deeper into our engineering challenges, successes, and cult
 
 For any questions or suggestions, feel free to reach out to us:
 
-- **VP of Engineering**: [Italo Vietro](mailto:italo.vietro@urbansportsclub.com)
+- **VP of Engineering**: [Dejan Hvetkovic](mailto:dejan.hvetkovic@urbansportsclub.com)
 - **Engineering Team**: [engineering@urbansportsclub.com](mailto:engineering@urbansportsclub.com)
 - **Security Team**: [security@urbansportsclub.com](mailto:security@urbansportsclub.com)
 
